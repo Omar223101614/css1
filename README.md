@@ -26,15 +26,15 @@
 
 # Internal Link:
 
-1. In <main> element I set its background-color to #DBDFDC;
-2. In <h1> element (Title Page - EduConnect) I set its foreground color to grey.
-3. In <h3> elements I set the foreground color to #a68854; 
-4. In <h4> elements I set the foreground color to #a6a654;
+1. In main element I set its background-color to #DBDFDC;
+2. In h1 element (Title Page - EduConnect) I set its foreground color to grey.
+3. In h3 elements I set the foreground color to #a68854; 
+4. In h4 elements I set the foreground color to #a6a654;
 
 # Inline Link:
 
-1. In <header> (line 41) element I added an inline CSS in it to change its background-color to #F5F5DC; (biege color)
+1. In header (line 41) element I added an inline CSS in it to change its background-color to #F5F5DC; (biege color)
 
-2. In <footer> (line 140) element I added an inline CSS in it to change its background-color to #F5ECDC; (different shade of biege) and its font-size to 14px.
+2. In footer (line 140) element I added an inline CSS in it to change its background-color to #F5ECDC; (different shade of biege) and its font-size to 14px.
 
 
