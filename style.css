@@ -1,0 +1,35 @@
+
+    aside, main dl{
+        background-color: lightgray;
+    }
+
+    main p{
+        background-color: #A4B7A9;
+        font-size: 90%;
+    }
+
+    main dl dt{
+        font-size: 16px;
+        color: red;
+    }
+
+    #main-navigation{
+        background-color: #5A7D7C;
+    }
+
+    #main-navigation a{
+        color: white;
+    }
+
+    .footer-content p{
+        font-size: 15px;
+    }
+
+
+    main article{
+        font-size: 95%;
+    }
+
+    main article h4{
+        text-decoration: underline;
+    }
